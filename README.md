@@ -32,3 +32,10 @@ add reference to remote repository to this local repo
 >>git add .
 >>git commit -m "Initial commit"
 >> git push -u origin master
+
+# Created new branch " feature-readme-instructions"
+>>git checkout -b feature-readme-instructions
+>>git branch
+>>git checkout master
+>>git branch
+many more....
