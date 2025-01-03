@@ -24,3 +24,11 @@ Copy the URL from quick setup for new repo : https://github.com/IshaPatel-1992/D
 add reference to remote repository to this local repo
 >>git remote add origin https://github.com/IshaPatel-1992/DEMO-GIT.git
 >>git push origin master or git push -u origin master [-u helps to set upstream to master, So, no need to write origin master while push the code]
+
+# Initiating GIT Repo from Github URL
+>>git clone URL
+>>ls -la
+>>git status
+>>git add .
+>>git commit -m "Initial commit"
+>> git push -u origin master
